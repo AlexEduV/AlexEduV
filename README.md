@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexEduV
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in Programming, Philosophy, Psychology and Humor.
 - 🌱 I’m currently learning OOP, primarily in Flutter.
 
