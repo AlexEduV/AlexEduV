@@ -13,8 +13,8 @@
 - Tools: Git, Docker, VS Code, Android Studio, XCode, Postman
 
 📬 Let's Connect
-- 🌐 Portfolio[https://www.behance.net/alexaksonov2]
-- 💼 LinkedIn[https://www.linkedin.com/in/alexander-aksonov-iv/]
+- 🌐 [Portfolio](https://www.behance.net/alexaksonov2)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexander-aksonov-iv/)
 
 <!---
 AlexEduV/AlexEduV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
