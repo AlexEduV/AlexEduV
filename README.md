@@ -1,5 +1,6 @@
   Hi there! 👋 I'm Alexander
 🌟 Welcome to my GitHub profile! I'm a passionate Software Engineer specializing in Mobile Development. I love solving problems, learning new technologies, and creating UI that Pops.
+This is a collection of my public repositories, almost all of my commercial work is private.
 
 🚀 About Me
 - 🌱 I’m currently exploring Kotlin.
